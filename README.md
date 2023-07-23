@@ -1,2 +1,2 @@
-# myProjects
-A collection of my personal projects
+# WebsitePractice
+A personal project of mine
